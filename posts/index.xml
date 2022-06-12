@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Terminal</title>
+    <link>https://he1ix.site/posts/</link>
+    <description>Recent content in Posts on Terminal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Jun 2022 12:37:17 +0800</lastBuildDate><atom:link href="https://he1ix.site/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First_post</title>
+      <link>https://he1ix.site/posts/first_post/</link>
+      <pubDate>Sun, 12 Jun 2022 12:37:17 +0800</pubDate>
+      
+      <guid>https://he1ix.site/posts/first_post/</guid>
+      <description>THIS IS FIRST POST!!!!</description>
+      <content>&lt;p&gt;THIS IS FIRST POST!!!!&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
